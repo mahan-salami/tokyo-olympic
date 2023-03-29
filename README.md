@@ -1,1 +1,2 @@
 # tokyo-olympic
+SQL training
